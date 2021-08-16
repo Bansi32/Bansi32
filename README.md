@@ -1,4 +1,4 @@
-### Hallo there I am Bansi Patel👋
+### Hallo, I am Bansi Patel👋
 
 <!--
 **Bansi32/Bansi32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

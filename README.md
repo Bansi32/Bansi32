@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
 <h1 align="center">Hallo 👋, I'm Bansi Patel</h1>
-<a href="https://bansi-patel-portfolio.000webhostapp.com/"></a>
+<a href="https://bansi-patel-portfolio.000webhostapp.com/" target="blank">Portfolio</a>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bansi32&label=Profile%20views&color=0e75b6&style=flat" alt="bansi32" /> </p>

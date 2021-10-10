@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **ReactJS project.**
 
-- 🌱 I’m currently learning **React Native**
+<!-- - 🌱 I’m currently learning **React Native**-->
 
 - 👯 I’m looking to collaborate on [Linkedln](linkedin.com/in/bansi-patel-156a63195)
 

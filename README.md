@@ -30,11 +30,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bansi32&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19" alt="bansi32" /></p>
 
-## My Trending Repos 💻
+<!-- ## My Trending Repos 💻
 
 [![](https://github.com/Bansi32/Secret_Diary_352&bg_color=002b19&title_color=03fc90&text_color=03fc90)](https://github.com/saviomartin/gradientking)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Bansi32&repo=RockPaperScissor&bg_color=002b19&title_color=03fc90&text_color=03fc90)](https://github.com/saviomartin/loficlub)
-
+-->
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bansi32&" alt="bansi32" /></p>-->
 

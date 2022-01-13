@@ -32,7 +32,7 @@
 
 ## My Trending Repos 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Bansi32&repo=NotesApp&bg_color=002b19&title_color=03fc90&text_color=03fc90)](https://github.com/saviomartin/gradientking)
+[![](https://github.com/Bansi32/Secret_Diary_352&bg_color=002b19&title_color=03fc90&text_color=03fc90)](https://github.com/saviomartin/gradientking)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Bansi32&repo=RockPaperScissor&bg_color=002b19&title_color=03fc90&text_color=03fc90)](https://github.com/saviomartin/loficlub)
 
 

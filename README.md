@@ -9,13 +9,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
 
-- 🔭 I’m currently working on **ReactJS project.**
+- 🔭 I’m currently working on **Project.**
 
 <!-- - 🌱 I’m currently learning **React Native**-->
 
 - 👯 I’m looking to collaborate on [Linkedln](linkedin.com/in/bansi-patel-156a63195)
 
-- 🤝 I’m looking for help with **BackEnd**
+<-- - 🤝 I’m looking for help with **BackEnd**-->
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@jpatel19762001)
 

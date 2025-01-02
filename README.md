@@ -3,7 +3,7 @@
 
 <h1 align="center">Hallo 👋, I'm Bansi Patel</h1>
 <!-- <p align="center"> <a href="https://bansi-patel-portfolio.000webhostapp.com/" target="blank"> My Portfolio Website</a></p>-->
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bansi32&label=Profile%20views&color=0e75b6&style=flat" alt="bansi32" /> </p>
 
